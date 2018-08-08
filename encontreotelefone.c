@@ -2,8 +2,8 @@
 
 int main(void) {
 
-  char numero[30] = "";
-  char numeroReal[30] = "";
+  char numero[31] = "";
+  char numeroReal[31] = "";
   int i;
 
   while(scanf("%s", numero) != EOF){
